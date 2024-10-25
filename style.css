@@ -1,0 +1,28 @@
+#taco {
+    color: brown;
+    background-color: yellow;
+}
+
+#cookie {
+    background-color: rgba(114, 51, 24, 0.837);
+    color: black;
+}
+
+#lasagna {
+    background-color: red;
+    color: yellow;
+}
+
+h2 {
+    color: blue;
+    font-weight: 400;
+}
+
+h1 {
+    font-family: "papyrus", Times, serif;
+}
+
+h3 {
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 300;
+}
