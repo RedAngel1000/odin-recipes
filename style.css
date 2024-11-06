@@ -1,15 +1,12 @@
 #taco {
     color: brown;
-    background-color: yellow;
 }
 
 #cookie {
-    background-color: rgba(114, 51, 24, 0.837);
-    color: black;
+    color: rgba(114, 51, 24, 0.837);
 }
 
 #lasagna {
-    background-color: red;
     color: yellow;
 }
 
@@ -25,4 +22,16 @@ h1 {
 h3 {
     font-family: "Times New Roman", Times, serif;
     font-weight: 300;
+}
+
+.recipelist{
+    font-size: 24px;
+    padding-bottom: 10px;
+}
+
+.recipes {
+    background-color: lightslategrey;
+    margin: 40px;
+    border: solid darkslategray 5px;
+    padding: 10px;
 }
